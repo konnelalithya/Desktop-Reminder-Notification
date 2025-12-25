@@ -20,3 +20,5 @@ Pillow (PIL) – Image handling
 tkcalendar – Date selection
 
 <img width="1243" height="904" alt="Screenshot 2025-12-25 204923" src="https://github.com/user-attachments/assets/e267c6d0-bffd-42a6-962a-0d38e920a047" />
+<img width="1232" height="633" alt="image" src="https://github.com/user-attachments/assets/d6333cc9-d0ad-4d70-bda3-b120cc3547b1" />
+
